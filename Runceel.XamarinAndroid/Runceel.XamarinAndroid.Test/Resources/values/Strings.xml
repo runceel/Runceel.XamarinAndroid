@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="ApplicationName">Runceel.XamarinAndroid.Test</string>
+	<string name="Main.NavigateBasicListActivity">Basic List</string>
+	<string name="Main.NavigateObservableCollectionActivity">ObservableCollection</string>
+	<string name="Main.NavigateReadOnlyObservableActivity">ReadOnlyObservableCollection</string>
+</resources>

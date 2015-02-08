@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Runceel.XamarinAndroid</id>
+    <version>1.0</version>
+    <title>Runceel.XamarinAndroid</title>
+    <authors>okazuki</authors>
+    <owners>okazuki</owners>
+    <licenseUrl>https://github.com/runceel/Xamarin.Android.Utils/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/runceel/Xamarin.Android.Utils/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Runceel.XamarinAndroid is ListAdapter for IList, ObservableCollection and ReadOnlyObservableCollection.</description>
+    <summary />
+    <language>en-US</language>
+    <tags>xamarin android adapter</tags>
+    <dependencies>
+    </dependencies>
+    <frameworkAssemblies>
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <!-- Mono.Android -->
+    <file src="..\bin\Release\Runceel.XamarinAndroid.dll" target="lib\MonoAndroid" />
+  </files>
+</package>
